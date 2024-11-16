@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ IDEA 的配置
+.idea/*
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/misc.xml
+!.idea/runConfigurations/
+!.idea/libraries/
